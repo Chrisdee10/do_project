@@ -1,6 +1,6 @@
 # DevOps Projects
 
-DevOpsenginer Real World Projects for Aspiring DevOpsenginer Engineers [Beginner to Advanced]
+DevOps Real World Projects for Aspiring DevOpsenginer Engineers [Beginner to Advanced]
 
 ## List of DevOps Project Ideas
 
