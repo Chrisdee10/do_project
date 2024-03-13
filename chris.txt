@@ -1,1 +1,19 @@
 		Hi im chris deepak im the ownder of this software the app name is called the billionaire
+
+
+
+public class Main{
+
+	public static void add(){
+	int a = 10;
+	int b = 20;
+	int ans = a + b;
+
+	}
+
+	public static void main  (String[]arg{
+
+	add();
+}
+
+	}
